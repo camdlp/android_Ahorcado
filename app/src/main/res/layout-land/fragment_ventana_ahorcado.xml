@@ -49,6 +49,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="A" />
 
@@ -57,6 +58,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="B" />
 
@@ -65,6 +67,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="C" />
 
@@ -73,6 +76,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="D" />
 
@@ -81,6 +85,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="E" />
 
@@ -89,6 +94,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="F" />
 
@@ -97,6 +103,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="G" />
         </LinearLayout>
@@ -112,6 +119,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="H" />
 
@@ -120,6 +128,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="I" />
 
@@ -128,6 +137,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="J" />
 
@@ -136,6 +146,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="K" />
 
@@ -144,6 +155,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="L" />
 
@@ -152,6 +164,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="M" />
 
@@ -160,6 +173,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="N" />
         </LinearLayout>
@@ -174,6 +188,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="Ñ" />
 
@@ -182,6 +197,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="O" />
 
@@ -190,6 +206,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="P" />
 
@@ -198,6 +215,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="Q" />
 
@@ -206,6 +224,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="R" />
 
@@ -214,6 +233,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="S" />
 
@@ -222,6 +242,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea1"
                 android:onClick="botonPulsado"
                 android:text="T" />
 
@@ -237,6 +258,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="U" />
 
@@ -245,6 +267,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="V" />
 
@@ -253,6 +276,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="W" />
 
@@ -268,6 +292,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="X" />
 
@@ -276,6 +301,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="Y" />
 
@@ -284,6 +310,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="@color/linea2"
                 android:onClick="botonPulsado"
                 android:text="Z" />
         </LinearLayout>
