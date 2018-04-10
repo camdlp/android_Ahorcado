@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditText
+        android:id="@+id/cuadroTexto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:inputType="textPersonName"
+        android:padding="20dp"
+        android:text="Introduce Palabra" />
+
+    <Button
+        android:text="Usar"
+        android:id="@+id/botonUsar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cuadroTexto" />
+
+    <Button
+        android:text="Cancelar"
+        android:id="@+id/botonCancelar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/botonUsar" />
+</RelativeLayout>
